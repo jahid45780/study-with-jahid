@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/jR5KQTM/philippe-bout-93-W0xn4961g-unsplash.jpg",
+        "title": "Exploring the Mysteries of Deep Space",
+        "author_image": "https://i.ibb.co/2hnhj8T/side-view-business-man-writing-agenda.jpg",
+        "author": "Mr Dom",
+        "posted_date": "September 25, 2023",
+        "reading_time": 12,
+        "hashtags": ["#SpaceExploration", "#Astronomy", "#Galaxies"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/ZWR0HkQ/kelly-sikkema-Yn-RNd-B-XTME-unsplash.jpg",
+        "title": "The Art of Gourmet Cooking",
+        "author_image": "https://i.ibb.co/BLxF7LZ/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+        "author": "Mr Tom",
+        "posted_date": "August 10, 2023",
+        "reading_time": 8 ,
+        "hashtags": ["#CookingTips", "#Foodie", "#GourmetCuisine"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/7WzzV4V/nick-morrison-FHnnjk1-Yj7-Y-unsplash.jpg",
+        "title": "Mastering the Zen of Mindfulness",
+        "author_image": "https://i.ibb.co/7pJ6mLn/portrait-young-bearded-man-xa.jpg",
+        "author": "Mr Jak",
+        "posted_date": "July 5, 2023",
+        "reading_time": 15 ,
+        "hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/0Cky8tJ/tony-tran-F8s-CVSW4t4-E-unsplash.jpg",
+        "title": "Unveiling the Secrets of Ancient History",
+        "author_image": "https://i.ibb.co/vYT0wCD/IMG-20220918-193345-01.jpg",
+        "author": "Mr Jahid",
+        "posted_date": "May 12, 2023",
+        "reading_time": 20,
+        "hashtags": ["#HistoryMysteries", "#Archaeology", "#AncientCivilizations"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/yyVzy1C/elijah-hail-y-Lpb-Sjx-Mp-CU-unsplash-1.jpg",
+        "title": "The Power of Data Analytics in Business",
+        "author_image": "https://i.ibb.co/JnCMWn8/Untitled.jpg",
+        "author": "Mr Newton",
+        "posted_date": "June 30, 2023",
+        "reading_time": 10,
+        "hashtags": ["#DataAnalytics", "#BusinessStrategy", "#BigData"]
+    }
+]
